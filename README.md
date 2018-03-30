@@ -1,6 +1,13 @@
 ### Attentive Migration of wiki activity pages to git
 ###### Author: Rudra Sadhu
+###### Find the Project Proposal [here](https://wiki.sugarlabs.org/go/Summer_of_Code/2018/attentive_migration_of_wiki_activity_pages_to_git)
 ------------------------------------------------------------
+
+* [Migration Status](#migration-status)
+* [Pull Requests](#pull-requests)
+
+------------------------------------------------------
+#### Migration Status:
 
 | Symbol | Significance
 |--------|-------------
@@ -10,8 +17,7 @@
 |:warning: | stuck
 |:x: | failed
 
-------------------------------------------------------
-#### Migration Status:
+
 
 \# | Page Name | Wiki Page | Github Page | Status
 ------|-----------|----------------|-------------|-------
@@ -30,3 +36,12 @@
 343 | . | . | . |
 344 | . | . | . |
 345 | . | . | . |
+
+------------------------------------------------------
+#### Pull Requests:
+
+| Page # | Pull Request
+|--------|-------------
+| 1 - 4  | https://github.com/godiard/help-activity/pull/38
+| 5 - 8  | https://github.com/godiard/help-activity/pull/41
+| 9      | https://github.com/sugarlabs/JClic/pull/4
