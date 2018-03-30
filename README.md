@@ -13,14 +13,15 @@
 ------------------------------------------------------
 #### Migration Status:
 
-\# | Page Name | Wiki Page | Github Repository | Status
+\# | Page Name | Wiki Page | Github Page | Status
 ------|-----------|----------------|-------------|-------
-1| abc | https://wiki.sugarlabs.org/go/Activities/abc | https://github.com/sugarlabs/abc |
-2| def | https://wiki.sugarlabs.org/go/Activities/def | https://github.com/sugarlabs/def |
-3| ghi | https://wiki.sugarlabs.org/go/Activities/ghi | https://github.com/sugarlabs/ghi |
-.| . | . | . | :wrench:
+1| Abacus | https://wiki.sugarlabs.org/go/Activities/Abacus | https://github.com/godiard/help-activity/blob/master/source/abacus.rst | :heavy_check_mark:
+2| Abacus/Abacos | https://wiki.sugarlabs.org/go/Activities/Abacus/Abacos | https://github.com/godiard/help-activity/blob/master/source/abacus.rst | :heavy_check_mark:
+3| Abacus/Worksheet | https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet | https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet.rst | :heavy_check_mark:
+4| Abacus/Worksheet/Answersheet | https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet/Answersheet | https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet_answers.rst | :heavy_check_mark:
 .| . | . | . |
+.| . | . | . | :wrench:
 .| . | . | . | :warning:
-343| rst | https://wiki.sugarlabs.org/go/Activities/rst | https://github.com/sugarlabs/rst |
-344| uvw | https://wiki.sugarlabs.org/go/Activities/uvw | https://github.com/sugarlabs/uvw |
-345| xyz | https://wiki.sugarlabs.org/go/Activities/xyz | https://github.com/sugarlabs/xyz |
+343 | . | . | . |
+344 | . | . | . | :warning:
+345 | . | . | . | :wrench:
