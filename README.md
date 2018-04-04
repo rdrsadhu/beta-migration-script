@@ -32,6 +32,9 @@
 9| I Know My ABCs | :wrench: | https://wiki.sugarlabs.org/index.php?title=Activities/I_Know_My_ABCs&redirect=no | .
 10| LetterMatch | :wrench: | https://wiki.sugarlabs.org/go/Activities/LetterMatch | .
 11| JClic | :wrench: | https://wiki.sugarlabs.org/go/Activities/JClic | .
+12| Turtle Art/Challenges | :wrench: | https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Challenges | .
+13| TurtleArt/Challenges | :wrench: | https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Challenges&redirect=no | .
+14| Turtle Confusion | :wrench: | https://wiki.sugarlabs.org/go/Activities/Turtle_Confusion | .
 .| . | . | . |
 .| . | . | . |
 .| . | . | . |
@@ -42,8 +45,9 @@
 ------------------------------------------------------
 #### Pull Requests:
 
-| Page # | Pull Request
-|--------|-------------
-| 1 - 4  | https://github.com/godiard/help-activity/pull/38
+| Page #  | Pull Request
+|---------|-------------
+| 1 - 4   | https://github.com/godiard/help-activity/pull/38
 | 5 - 10  | https://github.com/godiard/help-activity/pull/41
 | 11      | https://github.com/sugarlabs/JClic/pull/4
+| 12 - 14 | https://github.com/godiard/help-activity/pull/42
