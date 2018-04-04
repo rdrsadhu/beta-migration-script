@@ -19,17 +19,19 @@
 
 
 
-\# | Page Name | Wiki Page | Github Page | Status
-------|-----------|----------------|-------------|-------
-1| Abacus | https://wiki.sugarlabs.org/go/Activities/Abacus | https://github.com/godiard/help-activity/blob/master/source/abacus.rst | :heavy_check_mark:
-2| Abacus/Abacos | https://wiki.sugarlabs.org/go/Activities/Abacus/Abacos | https://github.com/godiard/help-activity/blob/master/source/abacus.rst | :heavy_check_mark:
-3| Abacus/Worksheet | https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet | https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet.rst | :heavy_check_mark:
-4| Abacus/Worksheet/Answersheet | https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet/Answersheet | https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet_answers.rst | :heavy_check_mark:
-5| AEIOU | https://wiki.sugarlabs.org/go/Activities/AEIOU | . | :wrench:
-6| I can read | https://wiki.sugarlabs.org/go/Activities/I_can_read | . | :wrench:
-7| IKnowMyABCs | https://wiki.sugarlabs.org/go/Activities/IKnowMyABCs | . | :wrench:
-8| LetterMatch | https://wiki.sugarlabs.org/go/Activities/LetterMatch | . | :wrench:
-9| JClic | https://wiki.sugarlabs.org/go/Activities/JClic | . | :wrench:
+\# | Page Name | Status | Wiki Page | Github Page
+---|-----------|--------|-----------|-------------
+1| Abacus | :heavy_check_mark: | https://wiki.sugarlabs.org/go/Activities/Abacus | https://github.com/godiard/help-activity/blob/master/source/abacus.rst
+2| Abacus/Abacos | :heavy_check_mark: | https://wiki.sugarlabs.org/go/Activities/Abacus/Abacos | https://github.com/godiard/help-activity/blob/master/source/abacus.rst
+3| Abacus/Worksheet | :heavy_check_mark: | https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet | https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet.rst
+4| Abacus/Worksheet/Answersheet | :heavy_check_mark: | https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet/Answersheet | https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet_answers.rst
+5| AEIOU | :wrench: | https://wiki.sugarlabs.org/go/Activities/AEIOU | .
+6| I can read | :wrench: | https://wiki.sugarlabs.org/go/Activities/I_can_read | .
+7| Icanread | :wrench: | https://wiki.sugarlabs.org/index.php?title=Activities/Icanread&redirect=no | .
+8| IKnowMyABCs | :wrench: | https://wiki.sugarlabs.org/go/Activities/IKnowMyABCs | .
+9| I Know My ABCs | :wrench: | https://wiki.sugarlabs.org/index.php?title=Activities/I_Know_My_ABCs&redirect=no | .
+10| LetterMatch | :wrench: | https://wiki.sugarlabs.org/go/Activities/LetterMatch | .
+11| JClic | :wrench: | https://wiki.sugarlabs.org/go/Activities/JClic | .
 .| . | . | . |
 .| . | . | . |
 .| . | . | . |
@@ -43,5 +45,5 @@
 | Page # | Pull Request
 |--------|-------------
 | 1 - 4  | https://github.com/godiard/help-activity/pull/38
-| 5 - 8  | https://github.com/godiard/help-activity/pull/41
-| 9      | https://github.com/sugarlabs/JClic/pull/4
+| 5 - 10  | https://github.com/godiard/help-activity/pull/41
+| 11      | https://github.com/sugarlabs/JClic/pull/4
