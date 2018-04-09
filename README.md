@@ -35,6 +35,10 @@
 12| Turtle Art/Challenges | :heavy_check_mark: | [[12]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Challenges) | [[12]](https://github.com/godiard/help-activity/blob/master/source/turtleart_challenges.rst)
 13| TurtleArt/Challenges | :heavy_check_mark: | [[13]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Challenges&redirect=no) | [[13]](https://github.com/godiard/help-activity/blob/master/source/turtleart_challenges.rst)
 14| Turtle Confusion | :heavy_check_mark: | [[14]](https://wiki.sugarlabs.org/go/Activities/Turtle_Confusion) | [[14]](https://github.com/godiard/help-activity/blob/master/source/turtle_confusion.rst)
+15| Turtle in a Pond | :wrench: | [[15]](https://wiki.sugarlabs.org/go/Activities/Turtle_in_a_Pond) |
+16| Arithmetic | :heavy_check_mark: | [[16]](https://wiki.sugarlabs.org/go/Activities/Arithmetic) | [[16]](https://github.com/sugarlabs/arithmetic)
+17| Biorhythm | :heavy_check_mark: | [[17]](https://wiki.sugarlabs.org/go/Activities/Biorhythm) | [[17]](https://github.com/sugarlabs/biorhythm)
+18| Biorhytm| :heavy_check_mark: | [[18]](https://wiki.sugarlabs.org/index.php?title=Activities/Biorhytm&redirect=no) | [[18]](https://github.com/sugarlabs/biorhythm)
 .| . | . | . |
 .| . | . | . |
 .| . | . | . |
@@ -51,3 +55,5 @@
 | 5 - 10  | https://github.com/godiard/help-activity/pull/41
 | 11      | https://github.com/sugarlabs/JClic/pull/4
 | 12 - 14 | https://github.com/godiard/help-activity/pull/42
+| 15      | https://github.com/godiard/help-activity/pull/46
+| 16 - 18 | There was no valuable information to migrate
