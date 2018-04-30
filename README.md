@@ -1,6 +1,6 @@
 ### Attentive Migration of wiki activity pages to git
 ###### Author: Rudra Sadhu
-###### Find the Project Proposal [here](https://wiki.sugarlabs.org/go/Summer_of_Code/2018/attentive_migration_of_wiki_activity_pages_to_git)
+###### Find the Project details [here](https://wiki.sugarlabs.org/go/Summer_of_Code/2018/attentive_migration_of_wiki_activity_pages_to_git)
 ------------------------------------------------------------
 
 * [Migration Status](#migration-status)
@@ -41,6 +41,8 @@
 18| Biorhytm | :heavy_check_mark: | [[18]](https://wiki.sugarlabs.org/index.php?title=Activities/Biorhytm&redirect=no) | [[18]](https://github.com/sugarlabs/biorhythm)
 19| Bulletin Board | :wrench: | [[19]](https://wiki.sugarlabs.org/go/Activities/Bulletin_Board) |
 20| Bulletinboard | :wrench: | [[20]](https://wiki.sugarlabs.org/index.php?title=Activities/Bulletinboard&redirect=no) |
+21| Cookie Search | :wrench: | [[21]](https://wiki.sugarlabs.org/go/Activities/Cookie_Search) |
+22| CookieSearch | :wrench: | [[22]](https://wiki.sugarlabs.org/index.php?title=Activities/CookieSearch&redirect=no) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -60,3 +62,4 @@
 | 15      | https://github.com/godiard/help-activity/pull/46
 | 16 - 18 | There was no valuable information to migrate
 | 19 - 20 | https://github.com/godiard/help-activity/pull/47
+| 21 - 22 | https://github.com/godiard/help-activity/pull/50
