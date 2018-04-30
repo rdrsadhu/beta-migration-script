@@ -36,13 +36,13 @@
 13| TurtleArt/Challenges | :heavy_check_mark: | [[13]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Challenges&redirect=no) | [[13]](https://github.com/godiard/help-activity/blob/master/source/turtleart_challenges.rst)
 14| Turtle Confusion | :heavy_check_mark: | [[14]](https://wiki.sugarlabs.org/go/Activities/Turtle_Confusion) | [[14]](https://github.com/godiard/help-activity/blob/master/source/turtle_confusion.rst)
 15| Turtle in a Pond | :heavy_check_mark: |  [[15]](https://wiki.sugarlabs.org/go/Activities/Turtle_in_a_Pond) | [[15]](https://github.com/godiard/help-activity/blob/master/source/turtle_in_a_pond.rst)
-16| Arithmetic | :heavy_check_mark: | [[16]](https://wiki.sugarlabs.org/go/Activities/Arithmetic) | [[16]](https://github.com/sugarlabs/arithmetic)
-17| Biorhythm | :heavy_check_mark: | [[17]](https://wiki.sugarlabs.org/go/Activities/Biorhythm) | [[17]](https://github.com/sugarlabs/biorhythm)
-18| Biorhytm | :heavy_check_mark: | [[18]](https://wiki.sugarlabs.org/index.php?title=Activities/Biorhytm&redirect=no) | [[18]](https://github.com/sugarlabs/biorhythm)
+16| Arithmetic | :heavy_check_mark: | [[16]](https://wiki.sugarlabs.org/go/Activities/Arithmetic) | .
+17| Biorhythm | :heavy_check_mark: | [[17]](https://wiki.sugarlabs.org/go/Activities/Biorhythm) | .
+18| Biorhytm | :heavy_check_mark: | [[18]](https://wiki.sugarlabs.org/index.php?title=Activities/Biorhytm&redirect=no) | .
 19| Bulletin Board | :wrench: | [[19]](https://wiki.sugarlabs.org/go/Activities/Bulletin_Board) |
 20| Bulletinboard | :wrench: | [[20]](https://wiki.sugarlabs.org/index.php?title=Activities/Bulletinboard&redirect=no) |
-21| Cookie Search | :wrench: | [[21]](https://wiki.sugarlabs.org/go/Activities/Cookie_Search) |
-22| CookieSearch | :wrench: | [[22]](https://wiki.sugarlabs.org/index.php?title=Activities/CookieSearch&redirect=no) |
+21| Cookie Search | :heavy_check_mark: | [[21]](https://wiki.sugarlabs.org/go/Activities/Cookie_Search) | [[21]](https://github.com/godiard/help-activity/blob/master/source/cookie_search.rst)
+22| CookieSearch | :heavy_check_mark: | [[22]](https://wiki.sugarlabs.org/index.php?title=Activities/CookieSearch&redirect=no) | [[22]](https://github.com/godiard/help-activity/blob/master/source/cookie_search.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
