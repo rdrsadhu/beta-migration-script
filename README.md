@@ -43,6 +43,11 @@
 20| Bulletinboard | :wrench: | [[20]](https://wiki.sugarlabs.org/index.php?title=Activities/Bulletinboard&redirect=no) |
 21| Cookie Search | :heavy_check_mark: | [[21]](https://wiki.sugarlabs.org/go/Activities/Cookie_Search) | [[21]](https://github.com/godiard/help-activity/blob/master/source/cookie_search.rst)
 22| CookieSearch | :heavy_check_mark: | [[22]](https://wiki.sugarlabs.org/index.php?title=Activities/CookieSearch&redirect=no) | [[22]](https://github.com/godiard/help-activity/blob/master/source/cookie_search.rst)
+23| LocoSugar | :heavy_check_mark: | [[23]](https://wiki.sugarlabs.org/go/Activities/LocoSugar) | [[23]](https://github.com/godiard/help-activity/blob/master/source/locosugar.rst)
+24| Level Tool | :heavy_check_mark: | [[24]](https://wiki.sugarlabs.org/go/Activities/Level_Tool) | [[24]](https://github.com/godiard/help-activity/blob/master/source/level_tool.rst)
+25| Level | :heavy_check_mark: | [[25]](https://wiki.sugarlabs.org/index.php?title=Activities/Level&redirect=no) | [[25]](https://github.com/godiard/help-activity/blob/master/source/level_tool.rst)
+26| Pukllanapac | :wrench: | [[26]](https://wiki.sugarlabs.org/go/Activities/Pukllanapac) | [[26]](https://github.com/godiard/help-activity/blob/master/source/pukllanapac.rst)
+27| Nutrition | :wrench: | [[27]](https://wiki.sugarlabs.org/go/Activities/Nutrition) | [[27]](https://github.com/godiard/help-activity/blob/master/source/nutrition.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -63,3 +68,7 @@
 | 16 - 18 | There was no valuable information to migrate
 | 19 - 20 | https://github.com/godiard/help-activity/pull/47
 | 21 - 22 | https://github.com/godiard/help-activity/pull/50
+| 23      | https://github.com/godiard/help-activity/pull/52
+| 24 - 25 | https://github.com/godiard/help-activity/pull/53
+| 26      | https://github.com/godiard/help-activity/pull/54
+| 27      | https://github.com/godiard/help-activity/pull/55
