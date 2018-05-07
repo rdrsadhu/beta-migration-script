@@ -46,8 +46,8 @@
 23| LocoSugar | :heavy_check_mark: | [[23]](https://wiki.sugarlabs.org/go/Activities/LocoSugar) | [[23]](https://github.com/godiard/help-activity/blob/master/source/locosugar.rst)
 24| Level Tool | :heavy_check_mark: | [[24]](https://wiki.sugarlabs.org/go/Activities/Level_Tool) | [[24]](https://github.com/godiard/help-activity/blob/master/source/level_tool.rst)
 25| Level | :heavy_check_mark: | [[25]](https://wiki.sugarlabs.org/index.php?title=Activities/Level&redirect=no) | [[25]](https://github.com/godiard/help-activity/blob/master/source/level_tool.rst)
-26| Pukllanapac | :wrench: | [[26]](https://wiki.sugarlabs.org/go/Activities/Pukllanapac) | [[26]](https://github.com/godiard/help-activity/blob/master/source/pukllanapac.rst)
-27| Nutrition | :wrench: | [[27]](https://wiki.sugarlabs.org/go/Activities/Nutrition) | [[27]](https://github.com/godiard/help-activity/blob/master/source/nutrition.rst)
+26| Pukllanapac | :heavy_check_mark: | [[26]](https://wiki.sugarlabs.org/go/Activities/Pukllanapac) | [[26]](https://github.com/godiard/help-activity/blob/master/source/pukllanapac.rst)
+27| Nutrition | :heavy_check_mark: | [[27]](https://wiki.sugarlabs.org/go/Activities/Nutrition) | [[27]](https://github.com/godiard/help-activity/blob/master/source/nutrition.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
