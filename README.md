@@ -75,3 +75,5 @@
 | 24 - 25 | https://github.com/godiard/help-activity/pull/53
 | 26      | https://github.com/godiard/help-activity/pull/54
 | 27      | https://github.com/godiard/help-activity/pull/55
+| 28      | https://github.com/godiard/help-activity/pull/56
+| 29 - 30 | https://github.com/godiard/help-activity/pull/57
