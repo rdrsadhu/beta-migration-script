@@ -51,6 +51,10 @@
 28| Typing Turtle | :wrench: | [[28]](https://wiki.sugarlabs.org/go/Activities/Typing_Turtle) | [[28]](https://github.com/godiard/help-activity/blob/master/source/typing_turtle.rst)
 29| Turtle Art/Tutorials/Adding Apples and Oranges | :heavy_check_mark: | [[29]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Adding_Apples_and_Oranges) | [[29]](https://github.com/godiard/help-activity/blob/master/source/turtleart_tutorials/adding_apples_and_oranges.rst)
 30| TurtleArt/Tutorials/Adding Apples and Oranges | :heavy_check_mark: | [[30]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Adding_Apples_and_Oranges&redirect=no) | [[30]](https://github.com/godiard/help-activity/blob/master/source/turtleart_tutorials/adding_apples_and_oranges.rst)
+31| Turtle Art/Tutorials/Counting | :wrench: | [[31]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Counting) |
+32| TurtleArt/Tutorials/Counting | :wrench: | [[32]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Counting&redirect=no) |
+33| Turtle Art/Tutorials/Counting/TA Counting Program | :wrench: | [[33]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Counting/TA_Counting_Program) |
+34| TurtleArt/Tutorials/Counting/TA Counting Program | :wrench: | [[34]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Counting/TA_Counting_Program&redirect=no) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -77,3 +81,4 @@
 | 27      | https://github.com/godiard/help-activity/pull/55
 | 28      | https://github.com/godiard/help-activity/pull/56
 | 29 - 30 | https://github.com/godiard/help-activity/pull/57
+| 31 - 34 | https://github.com/godiard/help-activity/pull/58
