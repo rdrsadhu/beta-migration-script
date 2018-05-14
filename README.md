@@ -55,6 +55,16 @@
 32| TurtleArt/Tutorials/Counting | :wrench: | [[32]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Counting&redirect=no) |
 33| Turtle Art/Tutorials/Counting/TA Counting Program | :wrench: | [[33]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Counting/TA_Counting_Program) |
 34| TurtleArt/Tutorials/Counting/TA Counting Program | :wrench: | [[34]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Counting/TA_Counting_Program&redirect=no) |
+35| Turtle Art/Tutorials/Numerals/Counting Rod Numerals Program | :wrench: | [[35]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Numerals/Counting_Rod_Numerals_Program) |
+36| TurtleArt/Tutorials/Numerals/Counting Rod Numerals Program | :wrench: | [[36]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Numerals/Counting_Rod_Numerals_Program&redirect=no) |
+37| Turtle Art/Tutorials/Numerals/Cuneiform Wedge Glyph Program | :wrench: | [[37]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Numerals/Cuneiform_Wedge_Glyph_Program) |
+38| TurtleArt/Tutorials/Numerals/Cuneiform Wedge Glyph Program | :wrench: | [[38]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Numerals/Cuneiform_Wedge_Glyph_Program&redirect=no) |
+39| Turtle Art/Tutorials/Numerals/Kharosthi Numerals Program | :wrench: | [[39]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Numerals/Kharosthi_Numerals_Program) |
+40| TurtleArt/Tutorials/Numerals/Kharosthi Numerals Program | :wrench: | [[40]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Numerals/Kharosthi_Numerals_Program&redirect=no) |
+41| Turtle Art/Tutorials/Numerals/Mayan Numerals Program | :wrench: | [[41]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Numerals/Mayan_Numerals_Program)|
+42| TurtleArt/Tutorials/Numerals/Mayan Numerals Program | :wrench: | [[42]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Numerals/Mayan_Numerals_Program&redirect=no) |
+43| Turtle Art/Tutorials/Numerals | :wrench: | [[43]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Numerals) |
+44| TurtleArt/Tutorials/Numerals | :wrench: | [[44]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Numerals&redirect=no) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -82,3 +92,4 @@
 | 28      | https://github.com/godiard/help-activity/pull/56
 | 29 - 30 | https://github.com/godiard/help-activity/pull/57
 | 31 - 34 | https://github.com/godiard/help-activity/pull/58
+| 35 - 44 | https://github.com/godiard/help-activity/pull/59
