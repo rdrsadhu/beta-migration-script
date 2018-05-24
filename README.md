@@ -25,12 +25,12 @@
 2| Abacus/Abacos | :heavy_check_mark: | [[2]](https://wiki.sugarlabs.org/go/Activities/Abacus/Abacos) | [[2]](https://github.com/godiard/help-activity/blob/master/source/abacus.rst)
 3| Abacus/Worksheet | :heavy_check_mark: | [[3]](https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet) | [[3]](https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet.rst)
 4| Abacus/Worksheet/Answersheet | :heavy_check_mark: | [[4]](https://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet/Answersheet) | [[4]](https://github.com/godiard/help-activity/blob/master/source/abacus_worksheet_answers.rst)
-5| AEIOU | :wrench: | [[5]](https://wiki.sugarlabs.org/go/Activities/AEIOU) |
-6| I can read | :wrench: | [[6]](https://wiki.sugarlabs.org/go/Activities/I_can_read) |
-7| Icanread | :wrench: | [[7]](https://wiki.sugarlabs.org/index.php?title=Activities/Icanread&redirect=no) |
-8| IKnowMyABCs | :wrench: | [[8]](https://wiki.sugarlabs.org/go/Activities/IKnowMyABCs) |
-9| I Know My ABCs | :wrench: | [[9]](https://wiki.sugarlabs.org/index.php?title=Activities/I_Know_My_ABCs&redirect=no) |
-10| LetterMatch | :wrench: | [[10]](https://wiki.sugarlabs.org/go/Activities/LetterMatch) |
+5| AEIOU | :heavy_check_mark: | [[5]](https://wiki.sugarlabs.org/go/Activities/AEIOU) |
+6| I can read | :heavy_check_mark: | [[6]](https://wiki.sugarlabs.org/go/Activities/I_can_read) |
+7| Icanread | :heavy_check_mark: | [[7]](https://wiki.sugarlabs.org/index.php?title=Activities/Icanread&redirect=no) |
+8| IKnowMyABCs | :heavy_check_mark: | [[8]](https://wiki.sugarlabs.org/go/Activities/IKnowMyABCs) |
+9| I Know My ABCs | :heavy_check_mark: | [[9]](https://wiki.sugarlabs.org/index.php?title=Activities/I_Know_My_ABCs&redirect=no) |
+10| LetterMatch | :heavy_check_mark: | [[10]](https://wiki.sugarlabs.org/go/Activities/LetterMatch) |
 11| JClic | :wrench: | [[11]](https://wiki.sugarlabs.org/go/Activities/JClic) |
 12| Turtle Art/Challenges | :heavy_check_mark: | [[12]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Challenges) | [[12]](https://github.com/godiard/help-activity/blob/master/source/turtleart_challenges.rst)
 13| TurtleArt/Challenges | :heavy_check_mark: | [[13]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Challenges&redirect=no) | [[13]](https://github.com/godiard/help-activity/blob/master/source/turtleart_challenges.rst)
