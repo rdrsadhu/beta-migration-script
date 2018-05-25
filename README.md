@@ -75,6 +75,46 @@
 52| TurtleArt/Tutorials/Galilean Relativity| :wrench: | [[52]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Galilean_Relativity&redirect=no) |
 53| Turtle Art/Tutorials/Trigonometry | :wrench: | [[53]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Trigonometry) |
 54| TurtleArt/Tutorials/Trigonometry | :wrench: | [[54]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Trigonometry&redirect=no) |
+55| Turtle Art/Tutorials/Euclid | :wrench: | [[55]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Euclid) |
+56| TurtleArt/Tutorials/Euclid | :wrench: | [[56]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Euclid&redirect=no) |
+57| Turtle Art/Tutorials/Euclid/Cheating | :wrench: | [[57]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Euclid/Cheating) |
+58| TurtleArt/Tutorials/Euclid/Cheating | :wrench: | [[58]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Euclid/Cheating&redirect=no) |
+59| Turtle Art/Tutorials/Groups of Symmetries | :wrench: | [[59]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Groups_of_Symmetries) |
+60| TurtleArt/Tutorials/Groups of Symmetries | :wrench: | [[60]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Groups_of_Symmetries&redirect=no) |
+61| Turtle Art/Tutorials/Kindergarten Calculus | :wrench: | [[61]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Kindergarten_Calculus) |
+62| TurtleArt/Tutorials/Kindergarten Calculus | :wrench: | [[62]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Kindergarten_Calculus&redirect=no) |
+63| Turtle Art/Tutorials/Logo Code for Turtle Art Turing Machine | :wrench: | [[63]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Logo_Code_for_Turtle_Art_Turing_Machine) |
+64| TurtleArt/Tutorials/Logo Code for Turtle Art Turing Machine | :wrench: | [[64]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Logo_Code_for_Turtle_Art_Turing_Machine&redirect=no) |
+65| Turtle Art/Tutorials/Turtle Art Code for Turing Machine | :wrench: | [[65]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Turtle_Art_Code_for_Turing_Machine) |
+66| TurtleArt/Tutorials/Turtle Art Code for Turing Machine | :wrench: | [[66]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Turtle_Art_Code_for_Turing_Machine&redirect=no) |
+67| Turtle Art/Tutorials/Turtle Art Turing Machine | :wrench: | [[67]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Turtle_Art_Turing_Machine) |
+68| TurtleArt/Tutorials/Turtle Art Turing Machine | :wrench: | [[68]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Turtle_Art_Turing_Machine&redirect=no) |
+69| Turtle Art/Tutorials/You be the Turtle | :wrench: | [[69]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/You_be_the_Turtle) |
+70| TurtleArt/Tutorials/You be the Turtle | :wrench: | [[70]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/You_be_the_Turtle&redirect=no) |
+71| Turtle Art/Tutorials/Turtle Art programming without words | :wrench: | [[71]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Turtle_Art_programming_without_words) |
+72| TurtleArt/Tutorials/Turtle Art programming without words | :wrench: | [[72]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Turtle_Art_programming_without_words&redirect=no) |
+73| Turtle Art/Tutorials/Mathematics and art | :wrench: | [[73]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Mathematics_and_art) |
+74| TurtleArt/Tutorials/Mathematics and art | :wrench: | [[74]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Mathematics_and_art&redirect=no) |
+75| Turtle Art/Tutorials/Turtle Art and Logo | :wrench: | [[75]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Turtle_Art_and_Logo) |
+76| TurtleArt/Tutorials/Turtle Art and Logo | :wrench: | [[76]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Turtle_Art_and_Logo&redirect=no) |
+77| Turtle Art/Tutorials/Triangular Numbers Program | :wrench: | [[77]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Triangular_Numbers_Program) |
+78| TurtleArt/Tutorials/Triangular Numbers Program | :wrench: | [[78]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Triangular_Numbers_Program&redirect=no) |
+79| Turtle Art/Tutorials/Figurate Numbers | :wrench: | [[79]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Figurate_Numbers) |
+80| TurtleArt/Tutorials/Figurate Numbers | :wrench: | [[80]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Figurate_Numbers&redirect=no) |
+81| Turtle Art/Tutorials/Shortcuts to the Times Table | :wrench: | [[81]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Shortcuts_to_the_Times_Table) |
+82| TurtleArt/Tutorials/Shortcuts to the Times Table | :wrench: | [[82]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Shortcuts_to_the_Times_Table&redirect=no) |
+83| Turtle Art/Tutorials/Measuring Slopes of tangents | :wrench: | [[83]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Measuring_Slopes_of_tangents) |
+84| TurtleArt/Tutorials/Measuring Slopes of tangents | :wrench: | [[84]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Measuring_Slopes_of_tangents&redirect=no) |
+85| Turtle Art/Tutorials/Stack Programming | :wrench: | [[85]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Stack_Programming) |
+86| TurtleArt/Tutorials/Stack Programming | :wrench: | [[86]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Stack_Programming&redirect=no) |
+87| Turtle Art/Tutorials/Abacus | :wrench: | [[87]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Abacus) |
+88| TurtleArt/Tutorials/Abacus | :wrench: | [[88]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Abacus&redirect=no) |
+89| Turtle Art/Tutorials/Conservation of Number | :wrench: | [[89]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Conservation_of_Number) |
+90| TurtleArt/Tutorials/Conservation of Number | :wrench: | [[90]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Conservation_of_Number&redirect=no) |
+91| Turtle Art/Tutorials/Galilean Gravity | :wrench: | [[91]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Galilean_Gravity) |
+92| TurtleArt/Tutorials/Galilean Gravity | :wrench: | [[92]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Galilean_Gravity&redirect=no) |
+93| Turtle Art/Tutorials/Spirograph | :wrench: | [[93]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Spirograph) |
+94| TurtleArt/Tutorials/Spirograph | :wrench: | [[94]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Spirograph&redirect=no) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -101,6 +141,4 @@
 | 27      | https://github.com/godiard/help-activity/pull/55
 | 28      | https://github.com/godiard/help-activity/pull/56
 | 29 - 30 | https://github.com/godiard/help-activity/pull/57
-| 31 - 36 | https://github.com/godiard/help-activity/pull/58
-| 37 - 46 | https://github.com/godiard/help-activity/pull/59
-| 47 - 54 | https://github.com/godiard/help-activity/pull/60
+| 31 - 94 | https://github.com/godiard/help-activity/pull/64
