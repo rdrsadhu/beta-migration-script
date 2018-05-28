@@ -115,6 +115,8 @@
 92| TurtleArt/Tutorials/Galilean Gravity | :wrench: | [[92]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Galilean_Gravity&redirect=no) |
 93| Turtle Art/Tutorials/Spirograph | :wrench: | [[93]](https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Spirograph) |
 94| TurtleArt/Tutorials/Spirograph | :wrench: | [[94]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Spirograph&redirect=no) |
+95| Image Viewer | :heavy_check_mark: | [[95]](https://wiki.sugarlabs.org/go/Activities/Image_Viewer) | [[95]](https://github.com/sugarlabs/imageviewer-activity/blob/master/README.md)
+96| ImageViewer | :heavy_check_mark: | [[96]](https://wiki.sugarlabs.org/index.php?title=Activities/ImageViewer&redirect=no) | [[96]](https://github.com/sugarlabs/imageviewer-activity/blob/master/README.md)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -142,3 +144,4 @@
 | 28      | https://github.com/godiard/help-activity/pull/56
 | 29 - 30 | https://github.com/godiard/help-activity/pull/57
 | 31 - 94 | https://github.com/godiard/help-activity/pull/64
+| 95 - 96 | https://github.com/sugarlabs/imageviewer-activity/pull/24
