@@ -117,6 +117,8 @@
 94| TurtleArt/Tutorials/Spirograph | :wrench: | [[94]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Spirograph&redirect=no) |
 95| Image Viewer | :heavy_check_mark: | [[95]](https://wiki.sugarlabs.org/go/Activities/Image_Viewer) | [[95]](https://github.com/sugarlabs/imageviewer-activity/blob/master/README.md)
 96| ImageViewer | :heavy_check_mark: | [[96]](https://wiki.sugarlabs.org/index.php?title=Activities/ImageViewer&redirect=no) | [[96]](https://github.com/sugarlabs/imageviewer-activity/blob/master/README.md)
+97| Chat | :wrench: | [[97]](https://wiki.sugarlabs.org/go/Activities/Chat) |
+98| Browse | :wrench: | [[98]](https://wiki.sugarlabs.org/go/Activities/Browse) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -145,3 +147,5 @@
 | 29 - 30 | https://github.com/godiard/help-activity/pull/57
 | 31 - 94 | https://github.com/godiard/help-activity/pull/64
 | 95 - 96 | https://github.com/sugarlabs/imageviewer-activity/pull/24
+| 97      | https://github.com/godiard/help-activity/pull/65
+| 98      | https://github.com/godiard/help-activity/pull/66
