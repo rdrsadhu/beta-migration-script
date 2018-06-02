@@ -119,6 +119,8 @@
 96| ImageViewer | :heavy_check_mark: | [[96]](https://wiki.sugarlabs.org/index.php?title=Activities/ImageViewer&redirect=no) | [[96]](https://github.com/sugarlabs/imageviewer-activity/blob/master/README.md)
 97| Chat | :wrench: | [[97]](https://wiki.sugarlabs.org/go/Activities/Chat) |
 98| Browse | :wrench: | [[98]](https://wiki.sugarlabs.org/go/Activities/Browse) |
+99| Read | :wrench: | [[99]](https://wiki.sugarlabs.org/go/Activities/Read) |
+100| Calculate | :wrench: | [[100]](https://wiki.sugarlabs.org/go/Activities/Calculate) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -149,3 +151,5 @@
 | 95 - 96 | https://github.com/sugarlabs/imageviewer-activity/pull/24
 | 97      | https://github.com/godiard/help-activity/pull/65
 | 98      | https://github.com/godiard/help-activity/pull/66
+| 99      | https://github.com/godiard/help-activity/pull/67
+| 100     | https://github.com/godiard/help-activity/pull/68
