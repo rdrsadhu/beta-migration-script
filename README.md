@@ -117,10 +117,10 @@
 94| TurtleArt/Tutorials/Spirograph | :wrench: | [[94]](https://wiki.sugarlabs.org/index.php?title=Activities/TurtleArt/Tutorials/Spirograph&redirect=no) |
 95| Image Viewer | :heavy_check_mark: | [[95]](https://wiki.sugarlabs.org/go/Activities/Image_Viewer) | [[95]](https://github.com/sugarlabs/imageviewer-activity/blob/master/README.md)
 96| ImageViewer | :heavy_check_mark: | [[96]](https://wiki.sugarlabs.org/index.php?title=Activities/ImageViewer&redirect=no) | [[96]](https://github.com/sugarlabs/imageviewer-activity/blob/master/README.md)
-97| Chat | :wrench: | [[97]](https://wiki.sugarlabs.org/go/Activities/Chat) |
-98| Browse | :wrench: | [[98]](https://wiki.sugarlabs.org/go/Activities/Browse) |
-99| Read | :wrench: | [[99]](https://wiki.sugarlabs.org/go/Activities/Read) |
-100| Calculate | :wrench: | [[100]](https://wiki.sugarlabs.org/go/Activities/Calculate) |
+97| Chat | :heavy_check_mark: | [[97]](https://wiki.sugarlabs.org/go/Activities/Chat) | [[97]](https://github.com/godiard/help-activity/blob/master/source/chat.rst)
+98| Browse | :heavy_check_mark: | [[98]](https://wiki.sugarlabs.org/go/Activities/Browse) | [[98]](https://github.com/godiard/help-activity/blob/master/source/browse.rst)
+99| Read | :heavy_check_mark: | [[99]](https://wiki.sugarlabs.org/go/Activities/Read) | [[99]](https://github.com/godiard/help-activity/blob/master/source/read.rst)
+100| Calculate | :heavy_check_mark: | [[100]](https://wiki.sugarlabs.org/go/Activities/Calculate) | [[100]](https://github.com/godiard/help-activity/blob/master/source/calculate.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
