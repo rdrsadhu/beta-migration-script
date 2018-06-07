@@ -121,6 +121,8 @@
 98| Browse | :heavy_check_mark: | [[98]](https://wiki.sugarlabs.org/go/Activities/Browse) | [[98]](https://github.com/godiard/help-activity/blob/master/source/browse.rst)
 99| Read | :heavy_check_mark: | [[99]](https://wiki.sugarlabs.org/go/Activities/Read) | [[99]](https://github.com/godiard/help-activity/blob/master/source/read.rst)
 100| Calculate | :heavy_check_mark: | [[100]](https://wiki.sugarlabs.org/go/Activities/Calculate) | [[100]](https://github.com/godiard/help-activity/blob/master/source/calculate.rst)
+101| Log | :wrench: | [[101]](https://wiki.sugarlabs.org/go/Activities/Log) |
+102| Write | :wrench: | [[102]](https://wiki.sugarlabs.org/go/Activities/Write) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -153,3 +155,5 @@
 | 98      | https://github.com/godiard/help-activity/pull/66
 | 99      | https://github.com/godiard/help-activity/pull/67
 | 100     | https://github.com/godiard/help-activity/pull/68
+| 101     | https://github.com/godiard/help-activity/pull/69
+| 102     | https://github.com/godiard/help-activity/pull/70
