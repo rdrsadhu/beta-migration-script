@@ -121,8 +121,10 @@
 98| Browse | :heavy_check_mark: | [[98]](https://wiki.sugarlabs.org/go/Activities/Browse) | [[98]](https://github.com/godiard/help-activity/blob/master/source/browse.rst)
 99| Read | :heavy_check_mark: | [[99]](https://wiki.sugarlabs.org/go/Activities/Read) | [[99]](https://github.com/godiard/help-activity/blob/master/source/read.rst)
 100| Calculate | :heavy_check_mark: | [[100]](https://wiki.sugarlabs.org/go/Activities/Calculate) | [[100]](https://github.com/godiard/help-activity/blob/master/source/calculate.rst)
-101| Log | :wrench: | [[101]](https://wiki.sugarlabs.org/go/Activities/Log) |
-102| Write | :wrench: | [[102]](https://wiki.sugarlabs.org/go/Activities/Write) |
+101| Log | :heavy_check_mark: | [[101]](https://wiki.sugarlabs.org/go/Activities/Log) | [[101]](https://github.com/godiard/help-activity/blob/master/source/log.rst)
+102| Write | :heavy_check_mark: | [[102]](https://wiki.sugarlabs.org/go/Activities/Write) | [[102]](https://github.com/godiard/help-activity/blob/master/source/write.rst)
+103| Terminal | :heavy_check_mark: | [[103]](https://wiki.sugarlabs.org/go/Activities/Terminal) | [[103]](https://github.com/godiard/help-activity/blob/master/source/terminal.rst)
+104| Jukebox | :wrench: | [[104]](https://wiki.sugarlabs.org/go/Activities/Jukebox) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -157,3 +159,5 @@
 | 100     | https://github.com/godiard/help-activity/pull/68
 | 101     | https://github.com/godiard/help-activity/pull/69
 | 102     | https://github.com/godiard/help-activity/pull/70
+| 103     | https://github.com/godiard/help-activity/pull/71
+| 104     | https://github.com/godiard/help-activity/pull/72
