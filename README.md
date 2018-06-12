@@ -125,6 +125,7 @@
 102| Write | :heavy_check_mark: | [[102]](https://wiki.sugarlabs.org/go/Activities/Write) | [[102]](https://github.com/godiard/help-activity/blob/master/source/write.rst)
 103| Terminal | :heavy_check_mark: | [[103]](https://wiki.sugarlabs.org/go/Activities/Terminal) | [[103]](https://github.com/godiard/help-activity/blob/master/source/terminal.rst)
 104| Jukebox | :wrench: | [[104]](https://wiki.sugarlabs.org/go/Activities/Jukebox) |
+105| Pippy | :wrench: | [[105]](https://wiki.sugarlabs.org/go/Activities/Pippy)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -161,3 +162,4 @@
 | 102     | https://github.com/godiard/help-activity/pull/70
 | 103     | https://github.com/godiard/help-activity/pull/71
 | 104     | https://github.com/godiard/help-activity/pull/72
+| 105     | https://github.com/godiard/help-activity/pull/73
