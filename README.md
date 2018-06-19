@@ -124,16 +124,15 @@
 101| Log | :heavy_check_mark: | [[101]](https://wiki.sugarlabs.org/go/Activities/Log) | [[101]](https://github.com/godiard/help-activity/blob/master/source/log.rst)
 102| Write | :heavy_check_mark: | [[102]](https://wiki.sugarlabs.org/go/Activities/Write) | [[102]](https://github.com/godiard/help-activity/blob/master/source/write.rst)
 103| Terminal | :heavy_check_mark: | [[103]](https://wiki.sugarlabs.org/go/Activities/Terminal) | [[103]](https://github.com/godiard/help-activity/blob/master/source/terminal.rst)
-104| Jukebox | :wrench: | [[104]](https://wiki.sugarlabs.org/go/Activities/Jukebox) |
+104| Jukebox | :heavy_check_mark: | [[104]](https://wiki.sugarlabs.org/go/Activities/Jukebox) | [[104]](https://github.com/godiard/help-activity/blob/master/source/jukebox.rst)
 105| Pippy | :heavy_check_mark: | [[105]](https://wiki.sugarlabs.org/go/Activities/Pippy) | [[105]](https://github.com/godiard/help-activity/blob/master/source/pippy.rst)
 106| Chart | :heavy_check_mark: | [[106]](https://wiki.sugarlabs.org/go/Activities/Chart) | [[106]](https://github.com/godiard/help-activity/blob/master/source/chart.rst)
 107| SimpleGraph | :heavy_check_mark: | [[107]](https://wiki.sugarlabs.org/index.php?title=Activities/SimpleGraph&redirect=no) | [[107]](https://github.com/godiard/help-activity/blob/master/source/chart.rst)
+108| ClipArt | :heavy_check_mark: | [[108]](https://wiki.sugarlabs.org/go/Activities/ClipArt) | [[108]](https://github.com/godiard/help-activity/blob/master/source/clipart.rst)
+109| Clock | :heavy_check_mark: | [[109]](https://wiki.sugarlabs.org/go/Activities/Clock) | [[109]](https://github.com/godiard/help-activity/blob/master/source/clock.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
-343| | | |
-344| | | |
-345| | | |
 
 ------------------------------------------------------
 #### Pull Requests:
@@ -166,3 +165,5 @@
 | 104     | https://github.com/godiard/help-activity/pull/72
 | 105     | https://github.com/godiard/help-activity/pull/73
 | 106-107 | https://github.com/godiard/help-activity/pull/74
+| 108     | https://github.com/godiard/help-activity/pull/75
+| 109     | https://github.com/godiard/help-activity/pull/76
