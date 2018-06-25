@@ -130,6 +130,10 @@
 107| SimpleGraph | :heavy_check_mark: | [[107]](https://wiki.sugarlabs.org/index.php?title=Activities/SimpleGraph&redirect=no) | [[107]](https://github.com/godiard/help-activity/blob/master/source/chart.rst)
 108| ClipArt | :heavy_check_mark: | [[108]](https://wiki.sugarlabs.org/go/Activities/ClipArt) | [[108]](https://github.com/godiard/help-activity/blob/master/source/clipart.rst)
 109| Clock | :heavy_check_mark: | [[109]](https://wiki.sugarlabs.org/go/Activities/Clock) | [[109]](https://github.com/godiard/help-activity/blob/master/source/clock.rst)
+110| Distance | :heavy_check_mark: | [[110]](https://wiki.sugarlabs.org/go/Activities/Distance) | [[110]](https://github.com/godiard/help-activity/blob/master/source/distance.rst)
+111| Dimensions | :heavy_check_mark: | [[111]](https://wiki.sugarlabs.org/index.php?title=Activities/Dimensions&redirect=no) | [[111]](https://github.com/godiard/help-activity/blob/master/source/dimensions.rst)
+112| VisualMatch | :heavy_check_mark: | [[112]](https://wiki.sugarlabs.org/go/Activities/VisualMatch) | [[112]](https://github.com/godiard/help-activity/blob/master/source/dimensions.rst)
+113| Develop | :heavy_check_mark: | [[113]](https://wiki.sugarlabs.org/go/Activities/Develop) | [[113]](https://github.com/godiard/help-activity/blob/master/source/develop.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -167,3 +171,6 @@
 | 106-107 | https://github.com/godiard/help-activity/pull/74
 | 108     | https://github.com/godiard/help-activity/pull/75
 | 109     | https://github.com/godiard/help-activity/pull/76
+| 110     | https://github.com/godiard/help-activity/pull/79
+| 111-112 | https://github.com/godiard/help-activity/pull/80
+| 113     | https://github.com/godiard/help-activity/pull/81
