@@ -134,6 +134,12 @@
 111| Dimensions | :heavy_check_mark: | [[111]](https://wiki.sugarlabs.org/index.php?title=Activities/Dimensions&redirect=no) | [[111]](https://github.com/godiard/help-activity/blob/master/source/dimensions.rst)
 112| VisualMatch | :heavy_check_mark: | [[112]](https://wiki.sugarlabs.org/go/Activities/VisualMatch) | [[112]](https://github.com/godiard/help-activity/blob/master/source/dimensions.rst)
 113| Develop | :heavy_check_mark: | [[113]](https://wiki.sugarlabs.org/go/Activities/Develop) | [[113]](https://github.com/godiard/help-activity/blob/master/source/develop.rst)
+114| Text dungeon | :wrench: | [[114]](http://wiki.sugarlabs.org/go/Activities/Text_dungeon) |
+115| Textdungeon | :wrench: | [[115]](http://wiki.sugarlabs.org/index.php?title=Activities/Textdungeon&redirect=no) |
+116| Sugar Commander | :wrench: | [[116]](https://wiki.sugarlabs.org/go/Activities/Sugar_Commander) |
+117| Story | :wrench: | [[117]](https://wiki.sugarlabs.org/go/Activities/Story) |
+118| Portfolio | :wrench: | [[118]](https://wiki.sugarlabs.org/go/Activities/Portfolio) |
+119| Poll | :wrench: | [[119]](https://wiki.sugarlabs.org/go/Activities/Poll) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -174,3 +180,8 @@
 | 110     | https://github.com/godiard/help-activity/pull/79
 | 111-112 | https://github.com/godiard/help-activity/pull/80
 | 113     | https://github.com/godiard/help-activity/pull/81
+| 114-115 | https://github.com/godiard/help-activity/pull/82
+| 116     | https://github.com/godiard/help-activity/pull/83
+| 117     | https://github.com/godiard/help-activity/pull/84
+| 118     | https://github.com/godiard/help-activity/pull/85
+| 119     | https://github.com/godiard/help-activity/pull/86
