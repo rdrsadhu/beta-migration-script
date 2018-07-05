@@ -137,9 +137,13 @@
 114| Text dungeon | :wrench: | [[114]](http://wiki.sugarlabs.org/go/Activities/Text_dungeon) |
 115| Textdungeon | :wrench: | [[115]](http://wiki.sugarlabs.org/index.php?title=Activities/Textdungeon&redirect=no) |
 116| Sugar Commander | :wrench: | [[116]](https://wiki.sugarlabs.org/go/Activities/Sugar_Commander) |
-117| Story | :wrench: | [[117]](https://wiki.sugarlabs.org/go/Activities/Story) |
+117| Story | :heavy_check_mark: | [[117]](https://wiki.sugarlabs.org/go/Activities/Story) | [[117]](https://github.com/godiard/help-activity/blob/master/source/story.rst)
 118| Portfolio | :wrench: | [[118]](https://wiki.sugarlabs.org/go/Activities/Portfolio) |
 119| Poll | :wrench: | [[119]](https://wiki.sugarlabs.org/go/Activities/Poll) |
+120| Labyrinth | :wrench: | [[120]](https://wiki.sugarlabs.org/go/Activities/Labyrinth) |
+121| IRC | :wrench: | [[121]](https://wiki.sugarlabs.org/go/Activities/IRC) |
+122| Measure | :wrench: | [[122]](https://wiki.sugarlabs.org/go/Activities/Measure) |
+123| Implode | :wrench: | [[123]](https://wiki.sugarlabs.org/go/Activities/Implode) |
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -185,3 +189,7 @@
 | 117     | https://github.com/godiard/help-activity/pull/84
 | 118     | https://github.com/godiard/help-activity/pull/85
 | 119     | https://github.com/godiard/help-activity/pull/86
+| 120     | https://github.com/godiard/help-activity/pull/87
+| 121     | https://github.com/godiard/help-activity/pull/88
+| 122     | https://github.com/godiard/help-activity/pull/89
+| 123     | https://github.com/godiard/help-activity/pull/90
