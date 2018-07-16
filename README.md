@@ -134,16 +134,22 @@
 111| Dimensions | :heavy_check_mark: | [[111]](https://wiki.sugarlabs.org/index.php?title=Activities/Dimensions&redirect=no) | [[111]](https://github.com/godiard/help-activity/blob/master/source/dimensions.rst)
 112| VisualMatch | :heavy_check_mark: | [[112]](https://wiki.sugarlabs.org/go/Activities/VisualMatch) | [[112]](https://github.com/godiard/help-activity/blob/master/source/dimensions.rst)
 113| Develop | :heavy_check_mark: | [[113]](https://wiki.sugarlabs.org/go/Activities/Develop) | [[113]](https://github.com/godiard/help-activity/blob/master/source/develop.rst)
-114| Text dungeon | :wrench: | [[114]](http://wiki.sugarlabs.org/go/Activities/Text_dungeon) |
-115| Textdungeon | :wrench: | [[115]](http://wiki.sugarlabs.org/index.php?title=Activities/Textdungeon&redirect=no) |
-116| Sugar Commander | :wrench: | [[116]](https://wiki.sugarlabs.org/go/Activities/Sugar_Commander) |
+114| Text dungeon | :heavy_check_mark: | [[114]](http://wiki.sugarlabs.org/go/Activities/Text_dungeon) | [[114]](https://github.com/godiard/help-activity/blob/master/source/text_dungeon.rst)
+115| Textdungeon | :heavy_check_mark: | [[115]](http://wiki.sugarlabs.org/index.php?title=Activities/Textdungeon&redirect=no) | [[115]](https://github.com/godiard/help-activity/blob/master/source/text_dungeon.rst)
+116| Sugar Commander | :heavy_check_mark: | [[116]](https://wiki.sugarlabs.org/go/Activities/Sugar_Commander) | [[116]](https://github.com/godiard/help-activity/blob/master/source/sugar_commander.rst)
 117| Story | :heavy_check_mark: | [[117]](https://wiki.sugarlabs.org/go/Activities/Story) | [[117]](https://github.com/godiard/help-activity/blob/master/source/story.rst)
-118| Portfolio | :wrench: | [[118]](https://wiki.sugarlabs.org/go/Activities/Portfolio) |
-119| Poll | :wrench: | [[119]](https://wiki.sugarlabs.org/go/Activities/Poll) |
-120| Labyrinth | :wrench: | [[120]](https://wiki.sugarlabs.org/go/Activities/Labyrinth) |
-121| IRC | :wrench: | [[121]](https://wiki.sugarlabs.org/go/Activities/IRC) |
-122| Measure | :wrench: | [[122]](https://wiki.sugarlabs.org/go/Activities/Measure) |
-123| Implode | :wrench: | [[123]](https://wiki.sugarlabs.org/go/Activities/Implode) |
+118| Portfolio | :wrench: | [[118]](https://wiki.sugarlabs.org/go/Activities/Portfolio) | [[118]](https://github.com/godiard/help-activity/blob/master/source/portfolio.rst)
+119| Poll | :heavy_check_mark: | [[119]](https://wiki.sugarlabs.org/go/Activities/Poll) | [[119]](https://github.com/godiard/help-activity/blob/master/source/poll.rst)
+120| Labyrinth | :heavy_check_mark: | [[120]](https://wiki.sugarlabs.org/go/Activities/Labyrinth) | [[120]](https://github.com/godiard/help-activity/blob/master/source/labyrinth.rst)
+121| IRC | :heavy_check_mark: | [[121]](https://wiki.sugarlabs.org/go/Activities/IRC) | [[121]](https://github.com/godiard/help-activity/blob/master/source/irc.rst)
+122| Measure | :heavy_check_mark: | [[122]](https://wiki.sugarlabs.org/go/Activities/Measure) | [[122]](https://github.com/godiard/help-activity/blob/master/source/measure.rst)
+123| Implode | :heavy_check_mark: | [[123]](https://wiki.sugarlabs.org/go/Activities/Implode) | [[123]](https://github.com/godiard/help-activity/blob/master/source/implode.rst)
+124| Amazonas Tortuga | :wrench: | [[124]](https://wiki.sugarlabs.org/go/Activities/Amazonas_Tortuga) | [[124]](https://github.com/godiard/help-activity/blob/master/source/amazonas_tortuga.rst)
+125| Bounce | :heavy_check_mark: | [[125]](https://wiki.sugarlabs.org/go/Activities/Bounce) | [[125]](https://github.com/sugarlabs/Bounce/blob/master/README.md)
+126| Bridge | :wrench: | [[126]](https://wiki.sugarlabs.org/go/Activities/Bridge) |
+127| Compress | :wrench: | [[127]](https://wiki.sugarlabs.org/go/Activities/Compress) |
+128| TurtleFlags | :wrench: |  [[128]](https://wiki.sugarlabs.org/go/Activities/TurtleFlags) | [[128]](https://github.com/godiard/help-activity/blob/master/source/turtleflags.rst)
+129| DrGeo | :heavy_check_mark: | [[129]](https://wiki.sugarlabs.org/go/Activities/DrGeo) | [[129]](https://github.com/godiard/help-activity/blob/master/source/drgeo.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -193,3 +199,9 @@
 | 121     | https://github.com/godiard/help-activity/pull/88
 | 122     | https://github.com/godiard/help-activity/pull/89
 | 123     | https://github.com/godiard/help-activity/pull/90
+| 124     | https://github.com/godiard/help-activity/pull/91
+| 125     | https://github.com/sugarlabs/Bounce/pull/8
+| 126     | https://github.com/sugarlabs/Bridge/pull/12
+| 127     | https://github.com/sugarlabs/compress-activity/pull/2
+| 128     | https://github.com/godiard/help-activity/pull/92
+| 129     | https://github.com/godiard/help-activity/pull/93
