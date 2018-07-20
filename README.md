@@ -150,6 +150,13 @@
 127| Compress | :wrench: | [[127]](https://wiki.sugarlabs.org/go/Activities/Compress) |
 128| TurtleFlags | :wrench: |  [[128]](https://wiki.sugarlabs.org/go/Activities/TurtleFlags) | [[128]](https://github.com/godiard/help-activity/blob/master/source/turtleflags.rst)
 129| DrGeo | :heavy_check_mark: | [[129]](https://wiki.sugarlabs.org/go/Activities/DrGeo) | [[129]](https://github.com/godiard/help-activity/blob/master/source/drgeo.rst)
+130| Read Etexts | :wrench: | [[130]](https://wiki.sugarlabs.org/go/Activities/Read_Etexts) | [[130]](https://github.com/godiard/help-activity/blob/master/source/read_etexts.rst)
+131| PlayGo | :wrench: | [[131]](https://wiki.sugarlabs.org/go/Activities/PlayGo) | [[131]](https://github.com/godiard/help-activity/blob/master/source/playgo.rst)
+132| Info Slicer | :wrench: | [[132]](https://wiki.sugarlabs.org/go/Activities/Info_Slicer) | [[132]](https://github.com/godiard/help-activity/blob/master/source/info_slicer.rst)
+133| InfoSlicer | :wrench: | [[133]](https://wiki.sugarlabs.org/index.php?title=Activities/InfoSlicer&redirect=no) | [[133]](https://github.com/godiard/help-activity/blob/master/source/info_slicer.rst)
+134| HitTheBalls | :wrench: | [[134]](https://wiki.sugarlabs.org/go/Activities/HitTheBalls) | [[134]](https://github.com/godiard/help-activity/blob/master/source/hittheballs.rst)
+135| Classroom Broadcast | :wrench: | [[135]](https://wiki.sugarlabs.org/go/Activities/Classroom_Broadcast) | [[135]](https://github.com/godiard/help-activity/blob/master/source/classroom_broadcast.rst)
+136| ClassroomBroadcast | :wrench: | [[136]](https://wiki.sugarlabs.org/index.php?title=Activities/ClassroomBroadcast&redirect=no) | [[136]](https://github.com/godiard/help-activity/blob/master/source/classroom_broadcast.rst)
 .| . | . | . | .
 .| . | . | . | .
 .| . | . | . | .
@@ -205,3 +212,8 @@
 | 127     | https://github.com/sugarlabs/compress-activity/pull/2
 | 128     | https://github.com/godiard/help-activity/pull/92
 | 129     | https://github.com/godiard/help-activity/pull/93
+| 130     | https://github.com/godiard/help-activity/pull/94
+| 131     | https://github.com/godiard/help-activity/pull/95
+| 132-133 | https://github.com/godiard/help-activity/pull/96
+| 134     | https://github.com/godiard/help-activity/pull/97
+| 135-136 | https://github.com/godiard/help-activity/pull/98
